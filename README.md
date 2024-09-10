@@ -1,4 +1,7 @@
 # Act6_funciones_V2_5I
+
+## Trabajando con operaciones basicas y funciones
+
 - Codigo
 - ![image](https://github.com/user-attachments/assets/eeb58bd8-2d99-498d-90e4-9a7d17be7f87)
 
